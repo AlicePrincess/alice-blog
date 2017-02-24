@@ -5,8 +5,8 @@
   "hexo": {
     "version": "3.2.2"
   },
-  "scripts":{
-    "build":"rm -rf /public && hexo generate",
+  "script":{
+    "build":"hexo clean && hexo generate",
     "start":"hexo server"
   },
   "dependencies": {
