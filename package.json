@@ -5,6 +5,10 @@
   "hexo": {
     "version": "3.2.2"
   },
+  "scripts":{
+    "build":"rm -rf /public && hexo generate",
+    "start":"hexo server"
+  },
   "dependencies": {
     "hexo": "^3.2.0",
     "hexo-generator-archive": "^0.1.4",
