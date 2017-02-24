@@ -6,10 +6,10 @@ menu:
 
 # SubNav
 subnav:
-  # github: "#"
-  # zhihu: "#"
-  # mail: "#"
-  # qq: "#"
+   github: "https://github.com/AlicePrincess"
+   zhihu: "#"
+   mail: "706654794@qq.com"
+   qq: "706654794"
   # weibo: "#"
   # rss: "#"
   #douban: "#"
@@ -36,10 +36,10 @@ open_in_new: false
 # baidu_tongji: true
 # google_analytics: true
 
-favicon: http://7xkj1z.com1.z0.glb.clouddn.com/head.jpg
+favicon: https://image.xiaomo.info/alice/avatar.jpg
 
 #你的头像url
-avatar: http://7xkj1z.com1.z0.glb.clouddn.com/head.jpg
+avatar: https://image.xiaomo.info/alice/avatar.jpg
 
 #是否开启分享
 share: true
@@ -63,7 +63,7 @@ leancloud_visitors:
 #friends: false
 #开启——
 friends:
-  smackdown: https://github.com/smackgg/hexo-theme-smackdown
+  xiaomo: https://xiaomo.info
 #是否开启“关于我”。
 # 不开启——
 aboutme: false

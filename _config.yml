@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 阿竹的博客
 subtitle:
 description:
-author: John Doe
+author: alice
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://alice.xiaomo.info
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :year/:title/
 permalink_defaults:
 
 # Directory
@@ -35,12 +35,12 @@ external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
 post_asset_folder: false
-relative_link: false
+relative_link: true
 future: true
 highlight:
   enable: true
   line_number: true
-  auto_detect: false
+  auto_detect: true
   tab_replace:
 
 # Category & Tag
