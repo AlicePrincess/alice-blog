@@ -53,9 +53,9 @@ tagcloud: true
 
 #是否开启文章阅读量
 leancloud_visitors:
-  enable: false
-  app_id: your_app_id
-  app_key: your_app_key
+  enable: true
+  app_id: XXosVmjJ174oxTLwwXBDhDnK-gzGzoHsz
+  app_key: rpixYGUYE0YeqkKp85yQwbOg
 
 
 #是否开启友情链接
