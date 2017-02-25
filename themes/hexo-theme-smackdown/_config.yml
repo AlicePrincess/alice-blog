@@ -36,10 +36,10 @@ open_in_new: false
 # baidu_tongji: true
 # google_analytics: true
 
-favicon: https://image.xiaomo.info/alice/avatar.jpg
+favicon: /img/avatar.jpg
 
 #你的头像url
-avatar: https://image.xiaomo.info/alice/avatar.jpg
+avatar: /img/avatar.jpg
 
 #是否开启分享
 share: false
